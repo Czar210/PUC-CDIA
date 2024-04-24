@@ -1,0 +1,12 @@
+Sexo,Peso (kg),Proteínas (g/dia),Carboidratos (g/dia),Gorduras (g/dia),Vitamina A (mcg/dia),Vitamina C (mg/dia),Cálcio (mg/dia),Ferro (mg/dia)
+Homem,50,40,200,50,900,90,1000,8
+Homem,60,48,240,60,900,90,1000,8
+Homem,70,56,280,70,900,90,1000,8
+Homem,80,64,320,80,900,90,1000,8
+Homem,90,72,360,90,900,90,1000,8
+Homem,100,80,400,100,900,90,1000,8
+Mulher,50,40,200,50,700,75,1000,18
+Mulher,55,43,215,55,700,75,1000,18
+Mulher,60,46,230,60,700,75,1000,18
+Mulher,65,49,245,65,700,75,1000,18
+Mulher,70,52,260,70,700,75,1000,18
